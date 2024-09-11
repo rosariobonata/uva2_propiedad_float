@@ -1,0 +1,55 @@
+.tituloprincipal{
+    text-align: center;
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+    color: darkred;
+    font-size: xx-large;
+}
+
+.tipografia{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#subrayado{
+    text-decoration: underline;
+    text-align: center;
+    font-weight: 400;
+    line-height: 0%;
+}
+
+#tituloshrek{
+    background-color: yellowgreen;
+    text-align: center;
+}
+
+#titulodramaqueen{
+    background-color: lightpink;
+    text-align: center;
+}
+
+#titulocriminal{
+    background-color: rgb(211, 56, 56);
+    text-align: center;
+}
+
+#titulonormal{
+    background-color: rgb(139, 203, 182);
+    text-align: center;
+}
+
+.tamañofoto{
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+}
+
+.contenedor-columnas{
+    margin-bottom: 20px;
+}
+
+.columnas{
+    float: left;
+    width: 24%;
+    padding: 0.5%;
+
+}
